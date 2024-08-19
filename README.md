@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">ML/DL Engineer | Data Scientist</h3>
-<!--
-**iambrianstanly/iambrianstanly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Wellcome to my repository
 
