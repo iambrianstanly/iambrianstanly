@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">ML/DL Engineer | Data Scientist</h3>
+<h3 align="center">AI/ML Engineer | Data Scientist</h3>
 
 ### Wellcome to my repository
 
